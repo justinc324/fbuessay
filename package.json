@@ -1,0 +1,29 @@
+{
+  "name": "fbuessay",
+  "version": "1.0.0",
+  "description": "simple website for fbu application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "web": "node ./index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/justinc324/fbuessay.git"
+  },
+  "keywords": [
+    "fbu",
+    "essay"
+  ],
+  "author": "justin cong",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/justinc324/fbuessay/issues"
+  },
+  "homepage": "https://github.com/justinc324/fbuessay#readme",
+  "dependencies": {
+    "hapi": "^16.1.0",
+    "inert": "^4.1.0",
+    "nodemon": "^1.11.0"
+  }
+}
